@@ -1,4 +1,8 @@
 # Zooids: Building Block for Swarm User Interface
+- [ShapeLab/SwarmUI: Necessary material to build and use Zooids to create Swarm User Interfaces](https://github.com/ShapeLab/SwarmUI/tree/master)
+- [形状研究室 - スタンフォード大学](https://shape.stanford.edu/research/swarm/)
+- [Zooids | Proceedings of the 29th Annual Symposium on User Interface Software and Technology](https://dl.acm.org/doi/10.1145/2984511.2984547)
+
 ## 概要
 このペーパーでは、表示と対話の両方を処理する多数の自律ロボットで構成される新しいクラスのヒューマン コンピューター インターフェイスである、swarm ユーザー インターフェイスについて紹介します。テーブルトップ swarm インターフェイスを開発するためのオープンソースのオープンハードウェア プラットフォームである Zooids の設計について説明します。このプラットフォームは、直径 2.6 cm のカスタム設計の車輪付きマイクロ ロボットの集合、無線基地局、光学追跡用の高速 DLP 構造光プロジェクター、およびアプリケーション開発と制御用のソフトウェア フレームワークで構成されています。 Zooids で開発された一連のアプリケーション シナリオを通じて、テーブルトップ swarm ユーザー インターフェイスの可能性を説明し、swarm ユーザー インターフェイスに固有の一般的な設計上の考慮事項について説明します。
 
